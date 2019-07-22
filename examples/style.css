@@ -1,0 +1,38 @@
+body{
+    background-color: blueviolet;
+}
+
+img{
+    width:  100px;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: darkred;
+    text-decoration: line-through;
+}
+
+ul{
+    color: beige;
+}
+
+li{
+    color: coral;
+}
+
+table{
+    color:aqua;
+}
+
+form{
+    color: crimson;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
