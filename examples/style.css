@@ -36,3 +36,28 @@ h1{
     color: gold;
     text-align: center;
 }
+
+div{
+    background-color: white;
+    font-style: italic;
+}
+
+#blockOne{
+    background-color: indigo;
+}
+
+.daBlocks{
+    background-color: skyblue;
+}
+
+#item{
+    background-color: orchid;
+}
+
+#item2{
+    background-color: green
+}
+
+.block{
+    background-color: greenyellow
+}
