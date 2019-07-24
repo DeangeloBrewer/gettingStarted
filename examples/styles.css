@@ -1,0 +1,63 @@
+body{
+    background-color: blueviolet;
+}
+
+img{
+    width:  100px;
+}
+
+h2{
+    color: white;
+}
+
+p{
+    text-align: center;
+    color: darkred;
+    text-decoration: line-through;
+}
+
+ul{
+    color: beige;
+}
+
+li{
+    color: coral;
+}
+
+table{
+    color:aqua;
+}
+
+form{
+    color: crimson;
+}
+
+h1{
+    color: gold;
+    text-align: center;
+}
+
+div{
+    background-color: white;
+    font-style: italic;
+}
+
+#blockOne{
+    background-color: indigo;
+}
+
+.daBlocks{
+    background-color: skyblue;
+}
+
+#item{
+    background-color: orchid;
+}
+
+#item2{
+    background-color: green
+}
+
+.block{
+    background-color: greenyellow
+}

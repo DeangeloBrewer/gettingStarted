@@ -1,63 +1,51 @@
-body{
-    background-color: blueviolet;
+#static{
+position: static;
+background-color: violet;
+color: blue;
+border: 1px solid black;
+font-size: small;
+font-style: normal;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-right: 150px;
+margin-left: 80px;
+padding-top: 100px;
+padding-bottom: 100px;
+padding-left: 100px;
+padding-right: 100px;
+width: 100px;
+height: 100px;
 }
 
-img{
-    width:  100px;
+#relative{
+position: relative;
+background-color: red;
+border: 1px solid black;
+font-size: medium;
+font-style: italic;
+margin-top: 110px;
+margin-bottom: 110px;
+margin-right: 160px;
+margin-left: 90px;
+padding-top: 110px;
+padding-bottom: 110px;
+padding-left: 110px;
+padding-right: 110px;
+width: 110px;
+height: 110px;
 }
 
-h2{
-    color: white;
+#fixed{
+background-color: purple;
+border: 1px solid black;
+}
+#absolute{
+background-color: yellow;
+border: 1px solid black;
+}
+#sticky{
+background-color: orange;
+border: 1px solid black;
 }
 
-p{
-    text-align: center;
-    color: darkred;
-    text-decoration: line-through;
-}
 
-ul{
-    color: beige;
-}
-
-li{
-    color: coral;
-}
-
-table{
-    color:aqua;
-}
-
-form{
-    color: crimson;
-}
-
-h1{
-    color: gold;
-    text-align: center;
-}
-
-div{
-    background-color: white;
-    font-style: italic;
-}
-
-#blockOne{
-    background-color: indigo;
-}
-
-.daBlocks{
-    background-color: skyblue;
-}
-
-#item{
-    background-color: orchid;
-}
-
-#item2{
-    background-color: green
-}
-
-.block{
-    background-color: greenyellow
-}
