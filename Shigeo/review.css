@@ -1,0 +1,50 @@
+body{
+    border: solid;
+    margin: 10px;
+    padding: 25px;
+    background-image: url("https://vignette.wikia.nocookie.net/mob-psycho-100/images/8/8c/Mob_anime.png/revision/latest/scale-to-width-down/250?cb=20160712054631");
+}
+p{
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+
+
+#Anime{
+border: dotted 4px red;
+padding-top: 30px;
+font-size: large;
+}
+#relative{
+    margin-left: 20px;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    right: 100px;
+}
+h2{
+    margin: 25px;
+}
+h3{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+#Character{
+    height: 100%;
+    border: 10px solid green;
+    position: relative;
+    left: 20px;
+    down: 50px;
+}
+#Powers{
+    width: 50%;
+    border: 10px solid green;
+}
+#Notes{
+    width: 200px;
+    padding: 25px;
+    border: 25px solid purple;
