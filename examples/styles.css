@@ -44,10 +44,13 @@ div{
 
 #blockOne{
     background-color: indigo;
+    font-family: 'Lato', sans-serif;
 }
 
 .daBlocks{
     background-color: skyblue;
+    font-family: 'Darker Grotesque', sans-serif;
+    
 }
 
 #item{
