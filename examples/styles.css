@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: rgb(43, 189, 226);
 }
 
 img{
@@ -50,7 +50,7 @@ div{
 .daBlocks{
     background-color: skyblue;
     font-family: 'Darker Grotesque', sans-serif;
-    
+
 }
 
 #item{
@@ -63,4 +63,21 @@ div{
 
 .block{
     background-color: greenyellow
+}
+
+
+a:hover {
+  color: #FF00FF;
+  text-decoration: underline;
+}
+
+a:link {
+  color: orange;
+}
+
+a:visited {
+  color: #00FF00;
+}
+a:active {
+  color: rgb(229, 255, 0);
 }
